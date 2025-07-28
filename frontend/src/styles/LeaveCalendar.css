@@ -1,0 +1,57 @@
+.leave-calendar-wrapper {
+  padding: 2rem;
+  background: #f9f9f9;
+  min-height: 100vh;
+}
+
+.calendar-header {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  padding-bottom: 10px;
+  color: #333;
+  border-bottom: 2px solid #eee;
+}
+
+.calendar-box {
+  background-color: white;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.custom-calendar {
+  height: 75vh;
+}
+
+.rbc-toolbar-label{
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.event-default {
+  background-color: #e0e0e0 !important;
+  color: #222 !important;
+  border-radius: 6px;
+  padding: 4px;
+}
+
+.event-sick {
+  background-color: #f8d7da !important;
+  color: #721c24 !important;
+}
+
+.event-vacation {
+  background-color: #d4edda !important;
+  color: #155724 !important;
+}
+
+.event-casual {
+  background-color: #fff3cd !important;
+  color: #856404 !important;
+}
+.event-maternity {
+  background-color: #fff3cd !important;
+  color: #1b5357 !important;
+}
