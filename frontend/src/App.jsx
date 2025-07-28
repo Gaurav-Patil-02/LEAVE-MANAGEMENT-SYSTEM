@@ -1,6 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
 import Login from './components/Login';
-import Register from './components/Register';
 import LandingPage from './components/LandinPage';
 
 import ManagerLayout from './layouts/ManagerLayout';
@@ -22,7 +21,6 @@ function App() {
       {/* Public Routes */}
       <Route path="/" element={<LandingPage />} />
       <Route path="/login" element={<Login />} />
-      <Route path="/register" element={<Register />} />
 
       {/* Manager Routes */}
       <Route path="/manager" element={<ManagerLayout />}>
