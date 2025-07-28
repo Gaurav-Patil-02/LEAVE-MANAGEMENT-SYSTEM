@@ -153,8 +153,6 @@ POST http://localhost:5000/api/auth/register
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" valign="top">
