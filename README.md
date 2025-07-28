@@ -165,17 +165,17 @@ POST http://localhost:5000/api/auth/register
     </td>
     <td align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/68e83e72-4954-4fdd-b66d-183447188573" width="100%" />
-      <div><strong>Manager Dashboard</strong></div>
+      <div><strong>Calendar View</strong></div>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/f2e7c0ca-8b24-4c9f-90be-c2e33099be87" width="100%" />
-      <div><strong>Leave Application Modal</strong></div>
+      <div><strong>Manager Dashboard</strong></div>
     </td>
     <td align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/1e0e3856-f689-4ce9-a9ad-4d8338948bb7" width="100%" />
-      <div><strong>Calendar View</strong></div>
+      <div><strong>Leave Application Form</strong></div>
     </td>
     <td align="center" valign="top">
       <img width="1766" height="802" alt="image" src="https://github.com/user-attachments/assets/af0329ac-5941-45d9-9b32-3b3f44d6d5c1" />
