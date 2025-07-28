@@ -83,7 +83,7 @@ PORT=5000
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=yourpassword
-DB_NAME=leave_management
+DB_NAME=employee_leave
 JWT_SECRET=your_jwt_secret
 ```
 
